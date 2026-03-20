@@ -107,17 +107,13 @@ During heavy rainfall, the rider cannot complete deliveries due to unsafe condit
 
 ## System Architecture
 
-Flutter App
-↓
-Firebase Authentication
-↓
-FastAPI Backend
-↓
-Firestore Database
-↓
-AI Risk Model
-↓
-Weather and AQI APIs
+## System Architecture
+
+<p align="center">
+  <img src="RideShield - Architecture.jpeg" width="700"/>
+</p>
+
+The architecture illustrates the end-to-end flow of the system, from the worker-facing mobile app to backend processing, AI-based risk evaluation, and integration with external data sources for automated parametric payouts.
 
 
 ---
