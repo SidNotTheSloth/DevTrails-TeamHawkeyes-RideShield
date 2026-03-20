@@ -107,8 +107,6 @@ During heavy rainfall, the rider cannot complete deliveries due to unsafe condit
 
 ## System Architecture
 
-## System Architecture
-
 <p align="center">
   <img src="RideShield - Architecture.jpeg" width="700"/>
 </p>
