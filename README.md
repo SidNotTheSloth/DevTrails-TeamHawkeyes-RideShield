@@ -106,19 +106,7 @@ During heavy rainfall, the rider cannot complete deliveries due to unsafe condit
 ---
 
 ## System Architecture
-
-Flutter App
-↓
-Firebase Authentication
-↓
-FastAPI Backend
-↓
-Firestore Database
-↓
-AI Risk Model
-↓
-Weather and AQI APIs
-
+<img width="1508" height="1168" alt="architecture" src="https://github.com/user-attachments/assets/233a1707-9b0c-4f70-8758-cde1061a77ab" />
 
 ---
 
